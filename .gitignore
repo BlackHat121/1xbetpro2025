@@ -1,33 +1,36 @@
-# Gradle files
-.gradle/
-build/
-
-# Local configuration file (sdk path, etc)
-local.properties
-
-# Log/OS Files
-*.log
-
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.apk
-output.json
-
-# IntelliJ
-*.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
-
-# Keystore files
-*.jks
-*.keystore
-
-# Google Services (e.g. APIs or Firebase)
-google-services.json
-
-# Android Profiling
-*.hprof
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Join 1xBet - Get Your Bonus</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-900 font-sans">
+  <!-- Hero Section -->
+  <section class="bg-gradient-to-r from-blue-700 to-indigo-800 text-white py-16 px-6 text-center">
+    <h1 class="text-5xl font-extrabold mb-4">Join 1xBet Today</h1>
+    <p class="text-xl mb-6">Get 100% Welcome Bonus using Promo Code <span class="font-bold text-yellow-300">Niloy9840</span></p>
+    <a href="https://bit.ly/42hrA22" target="_blank" class="bg-yellow-400 hover:bg-yellow-500 text-black font-semibold py-3 px-8 rounded-full transition">Register Now</a>
+  </section>  <!-- Registration Form Section -->  <section id="register" class="py-12 px-4 max-w-xl mx-auto">
+    <h2 class="text-3xl font-bold mb-6 text-center">Quick Sign-Up</h2>
+    <form action="https://bit.ly/42hrA22" target="_blank" class="bg-white p-6 rounded-lg shadow-lg space-y-4">
+      <p class="text-gray-700">Click below to register via official 1xBet link and claim your bonus instantly.</p>
+      <a href="https://bit.ly/42hrA22" target="_blank" class="block text-center bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 rounded transition">Go to Registration Page</a>
+    </form>
+  </section>  <!-- Bonus Offer Highlight -->  <section class="bg-white py-12 px-6 text-center">
+    <h2 class="text-3xl font-bold mb-4">Exclusive Bonus Offer</h2>
+    <p class="text-gray-700 text-lg max-w-2xl mx-auto mb-6">Use promocode <strong class="text-blue-700">Niloy9840</strong> while registering and get 100% bonus on your first deposit. Limited-time offer!</p>
+    <a href="https://bit.ly/42hrA22" target="_blank" class="bg-blue-600 hover:bg-blue-700 text-white py-3 px-8 rounded-full font-semibold">Claim Your Bonus</a>
+  </section>  <!-- APK Download Section -->  <section class="bg-gray-100 py-12 px-6 text-center">
+    <h2 class="text-3xl font-bold mb-4">Download 1xBet Android App</h2>
+    <p class="mb-6 text-gray-700">Install the app and enjoy betting on the go.</p>
+    <a href="https://bit.ly/42hrA22" target="_blank" class="bg-green-600 hover:bg-green-700 text-white py-3 px-8 rounded-full font-semibold">Download APK</a>
+  </section>  <!-- WhatsApp CTA -->  <section class="bg-blue-900 text-white py-12 px-6 text-center">
+    <h2 class="text-2xl font-bold mb-4">Need Help or Have Questions?</h2>
+    <p class="mb-4">Contact me directly on WhatsApp for assistance with registration or bonus.</p>
+    <a href="https://wa.link/zt1tct" target="_blank" class="bg-green-500 hover:bg-green-600 text-white py-3 px-6 rounded-full font-semibold inline-block">Chat on WhatsApp</a>
+  </section>  <!-- Footer -->  <footer class="bg-black text-white text-center py-6">
+    <p class="text-sm">© 2025 1xBet Promo Page. All rights reserved.</p>
+  </footer>
+</body>
+</html>
